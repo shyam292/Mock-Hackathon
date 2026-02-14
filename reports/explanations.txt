@@ -1,0 +1,42 @@
+
+======================================================================
+PORTFOLIO DECISION EXPLANATION - 2015-10-07
+======================================================================
+
+[REGIME DETECTION]
+Regime detected: Trending Up Positive momentum: SPY 20-day return at 5.0%. Volatility moderate at 10.0%. Bullish market conditions.
+
+[ALLOCATION DECISION]
+Allocation strategy for Trending Up regime: Favoring equities (SPY, QQQ) due to positive market momentum. Reducing defensive assets (TLT, GLD). Current allocation: SPY: 27.2%, QQQ: 21.7%, TLT: 31.0%, GLD: 20.1%
+
+======================================================================
+
+
+
+======================================================================
+PORTFOLIO DECISION EXPLANATION - 2015-10-08
+======================================================================
+
+[REGIME DETECTION]
+Regime detected: Trending Down Negative momentum: SPY 20-day return at -3.0%. Bearish market conditions. → Regime change from 'Trending Up' to 'Trending Down'
+
+[ALLOCATION DECISION]
+Allocation strategy for Trending Down regime: Balanced shift toward defensive assets. Increasing bonds and gold allocation. Current allocation: SPY: 19.4%, QQQ: 11.4%, TLT: 40.7%, GLD: 28.6% Changes: SPY decreased by 7.8%, QQQ decreased by 10.4%, TLT increased by 9.7%, GLD increased by 8.5%
+
+======================================================================
+
+
+
+======================================================================
+PORTFOLIO DECISION EXPLANATION - 2015-10-14
+======================================================================
+
+[REGIME DETECTION]
+Regime detected: Trending Up Positive momentum: SPY 20-day return at 5.0%. Volatility moderate at 10.0%. Bullish market conditions. → Regime change from 'Trending Down' to 'Trending Up'
+
+[ALLOCATION DECISION]
+Allocation strategy for Trending Up regime: Favoring equities (SPY, QQQ) due to positive market momentum. Reducing defensive assets (TLT, GLD). Current allocation: SPY: 32.1%, QQQ: 21.6%, TLT: 26.6%, GLD: 19.7% Changes: SPY increased by 12.4%, QQQ increased by 9.6%, TLT decreased by 10.9%, GLD decreased by 11.0%
+
+======================================================================
+
+
